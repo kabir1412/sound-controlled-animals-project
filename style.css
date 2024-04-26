@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lato', sans-serif;
+    color: lime;
+    background-color: red;
+    }
+    
+    .header_div{
+    background-color: blue;
+    color: pink;
+    font-family: 'Poppins', sans-serif;    
+    }
+    
+    
+    .main_div button{
+    font-family: 'Poppins', sans-serif;    
+    margin-top: 12px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-size: 20px;
+    }
+    
+    .copy_right_footer{
+    width: 100%;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    background-color: yellow; 
+    color:grey;
+    text-align:center;
+    text-shadow: 6px 6px 6px cyan;   
+    bottom: 0;
+    position: fixed;
+    line-height: 4;
+    }
+    
